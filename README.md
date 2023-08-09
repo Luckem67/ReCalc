@@ -1,70 +1,25 @@
-# Getting Started with Create React App
+# ![Texto](/src/img/recalc-logo.png)
+Calculadora Implementada con React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### `Introducción`
 
-In the project directory, you can run:
+ReCalc es un emocionante proyecto de desarrollo web que tiene como objetivo crear una moderna calculadora en línea utilizando la popular biblioteca de JavaScript, React. Esta calculadora brindará a los usuarios una manera eficiente y atractiva de realizar operaciones matemáticas básicas a través de una interfaz interactiva y amigable.
 
-### `npm start`
+### `Características Destacadas`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Diseño Intuitivo: ReCalc contará con una interfaz de usuario intuitiva que organizará de manera lógica los botones numéricos y de operaciones. Esto facilitará a los usuarios la realización de cálculos de manera efectiva, sin importar su nivel de experiencia.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Funciones Matemáticas Básicas: La calculadora ofrecerá las operaciones fundamentales de suma, resta, multiplicación y división. Los usuarios podrán realizar cálculos tanto con números enteros como con decimales, cubriendo una amplia gama de necesidades.
 
-### `npm test`
+Botón de Eliminación: Para corregir errores rápidamente, se implementará un botón de eliminación que borrará el último dígito ingresado. Esto facilitará la corrección de errores en cualquier momento durante el proceso de cálculo.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Diseño Responsivo y Personalizable: ReCalc será desarrollado con un diseño responsivo que se adaptará a diferentes dispositivos, desde computadoras de escritorio hasta dispositivos móviles. Además, se brindará la opción de personalizar los estilos para crear una experiencia visual coherente y agradable.
 
-### `npm run build`
+Pruebas Unitarias Confiables: El proyecto se beneficiará de pruebas unitarias sólidas utilizando herramientas como Jest y React Testing Library. Esto asegurará que la calculadora funcione de manera confiable y que los cambios futuros no introduzcan errores inesperados.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Optimización de Rendimiento: Se aplicarán prácticas de optimización de rendimiento para garantizar que ReCalc ofrezca una experiencia de usuario fluida y sin retrasos, incluso en dispositivos con recursos limitados.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+###
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ReCalc es un emocionante proyecto que fusiona la funcionalidad esencial de una calculadora con la modernidad de React. Al proporcionar a los usuarios una herramienta versátil para realizar cálculos matemáticos, este proyecto ofrece una excelente oportunidad para adentrarse en el desarrollo web utilizando tecnologías actuales y populares.
